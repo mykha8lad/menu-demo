@@ -1,0 +1,15 @@
+D:\c#-projects\MenuDemo\MenuDemo\bin\Debug\net7.0\MenuDemo.exe
+D:\c#-projects\MenuDemo\MenuDemo\bin\Debug\net7.0\MenuDemo.deps.json
+D:\c#-projects\MenuDemo\MenuDemo\bin\Debug\net7.0\MenuDemo.runtimeconfig.json
+D:\c#-projects\MenuDemo\MenuDemo\bin\Debug\net7.0\MenuDemo.dll
+D:\c#-projects\MenuDemo\MenuDemo\bin\Debug\net7.0\MenuDemo.pdb
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.csproj.AssemblyReference.cache
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.AssemblyInfoInputs.cache
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.AssemblyInfo.cs
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.csproj.CoreCompileInputs.cache
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.dll
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\refint\MenuDemo.dll
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.pdb
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\MenuDemo.genruntimeconfig.cache
+D:\c#-projects\MenuDemo\MenuDemo\obj\Debug\net7.0\ref\MenuDemo.dll
